@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+chown -R www-data:www-data ../www
+chmod -R 0755 ../www
+

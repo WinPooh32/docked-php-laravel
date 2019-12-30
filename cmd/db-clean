@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+rm -r ./env/mysql/*
+rm -r ./env/mysqld/*
